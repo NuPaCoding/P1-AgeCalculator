@@ -12,11 +12,36 @@ h1{
     text-align: center;
 }
 
+.text1 {
+    color: #0864b4;
+}
+
+.text2{
+    text-align: center;
+}
+
 .inputs{
     align-items: center;
     justify-content: center;
 }
 
 .date {
-    width: 100px;
+    width: 50px;
+}
+
+.btnDiv {
+    padding-top: 23px;
+    margin: 0px;
+}
+
+.btn-class{
+    background-color: transparent;
+    border-style:solid;
+    border-color:  #0864b4 ;
+    border-radius: 30%;
+}
+
+.btn-send {
+    width: 30px;
+    height: 30px;
 }
