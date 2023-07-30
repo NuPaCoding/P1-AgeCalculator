@@ -18,6 +18,7 @@ h1{
 
 .text1 {
     color: #0864b4;
+    font-size: 80px;
 }
 
 .text2{
@@ -37,7 +38,6 @@ h1{
     background-color: transparent;
     border-style:solid;
     border-color:  #0864b4 ;
-    border-radius: 30%;
 }
 
 .btn-send {
@@ -51,12 +51,35 @@ h1{
     margin: 0;
 }
 
-.numerosF{
+.numerosF1{
     color: rgb(158, 76, 235);
     font-size: 70px;
 } 
 
-.letrasF{
+.numerosF2{
+    color: rgb(158, 76, 235);
+    font-size: 70px;
+    padding-left: 31px;
+} 
+
+.numerosF3{
+    color: rgb(158, 76, 235);
+    font-size: 70px;
+} 
+
+.letrasF1{
     font-size: 50px;
     margin: 0;
+}
+
+.letrasF2{
+    font-size: 50px;
+    margin: 0;
+}
+
+.letrasF3{
+    font-size: 50px;
+    margin: 0;
+    padding-right: 20px;
+
 }
